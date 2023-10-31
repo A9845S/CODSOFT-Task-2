@@ -1,5 +1,5 @@
-# importing the necessary module  
-import random                       # importing the random module  
+  # importing the random module  
+import random                       
   
 # defining a function to randomly generate the password  
 def generate_password(len):  
